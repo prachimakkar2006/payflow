@@ -1,0 +1,12 @@
+
+# Haskell compiled files
+*.hi
+*.o
+*.exe
+
+# Build directories
+dist-newstyle/
+.stack-work/
+
+# GHC environment files
+.ghc.environment.*
